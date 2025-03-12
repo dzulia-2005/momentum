@@ -1,4 +1,4 @@
-import DropdownMenu from "../components/dropDown";
+import DropdownMenu from "../components/dropDown/view";
 
 
 
